@@ -161,7 +161,7 @@
     "jdenticon": "git+https://github.com/cryptonomex/jdenticon.git",
     "js-sha256": "^0.2.3",
     "jspdf": "^1.4.1",
-    "lodash-es": "^4.17.10",
+    "lodash-es": "^4.17.15",
     "lzma": "2.3.2",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.27",
