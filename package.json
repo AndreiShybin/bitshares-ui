@@ -160,7 +160,7 @@
     "intro.js": "^2.8.0-alpha.1",
     "jdenticon": "git+https://github.com/cryptonomex/jdenticon.git",
     "js-sha256": "^0.2.3",
-    "jspdf": "^1.4.1",
+    "jspdf": "^1.5.3",
     "lodash-es": "^4.17.15",
     "lzma": "2.3.2",
     "moment": "^2.22.2",
