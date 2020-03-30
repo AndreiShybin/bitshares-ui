@@ -188,7 +188,7 @@
     "react-json-inspector": "^7.1.1",
     "react-loadable": "^5.4.0",
     "react-notification-system": "^0.2.16",
-    "react-popover": "^0.5.7",
+    "react-popover": "^0.5.10",
     "react-qr-reader": "^2.2.1",
     "react-responsive-mixin": "^0.4.0",
     "react-router-dom": "^4.3.1",
