@@ -171,7 +171,7 @@
     "object-assign": "^4.0.1",
     "perfect-scrollbar": "git+https://github.com/bitshares/perfect-scrollbar.git",
     "prop-types": "^15.7.2",
-    "qrcode": "^1.4.4",
+    "qrcode": "^1.5.0",
     "qrcode.react": "^0.9.3",
     "query-string": "^6.1.0",
     "react": "^16.12.0",
